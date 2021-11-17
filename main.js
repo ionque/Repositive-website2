@@ -28,6 +28,7 @@ arrowupBtn.addEventListener("click", ()=> {
     scrollIntoView("#home");
 });
 
+//scroll
 const arrow = document.querySelector(".arrow-up"); // arrow-up 셀렉트
 document.addEventListener("scroll",()=>{ // 이벤트 발생시
     if(window.scrollY < 1){

@@ -479,6 +479,7 @@ p {
   color: var(--color-white);
   background-color: var(--color-pink);
   border-radius: 50%;
+  transition: opacity 300ms ease-in;
 }
 
 /* For below 768px screen width */
