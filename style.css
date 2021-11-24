@@ -107,7 +107,7 @@ p {
 }
 
 #navbar.navbar--dark {
-  background-color: var(--color-pink);
+  background-color: var(--color-blue);
   /* padding: 8px; */
 }
 
@@ -456,7 +456,7 @@ p {
 
 /* Contact */
 #contact {
-  background-color: var(--color-pink);
+  background-color: var(--color-blue);
 }
 
 .contact__title,
